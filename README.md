@@ -29,10 +29,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VrZGM5MW5oY29kZGE2YmYxM2hjN3M2Znp6YXdiOGszZ3k0a290ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l396BoOTIFem9xqQU/giphy.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/i4oofi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -53,12 +49,8 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i4oofi/i4oofi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i4oofi/i4oofi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/i4oofi/i4oofi/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cG5heDY4Y2psd3dsZnlmYWdwN3pyOXJvdWNwb2dhMG53OHI0b2dubiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif"  />
+</div>
 
 ###
