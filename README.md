@@ -14,7 +14,7 @@ I'm Omar Husin, a Flutter & Mobile Developer from Egypt passionate about buildin
 
 <div align="center">GitHub Analytics
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=i4oofi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/><br><br>
+[<img height="180" src="https://github-readme-stats.vercel.app/api?username=i4oofi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>](https://camo.githubusercontent.com/c799f837dfec73b5116be20c1485efc6c8c33402b4188079ae5a4529b36fb5ef/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d69346f6f66692673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d7472756526626f726465725f7261646975733d313526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565)<br><br>
 
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=i4oofi&layout=compact&theme=tokyonight&hide_border=true"/><br><br>
 
