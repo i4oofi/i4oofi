@@ -1,10 +1,10 @@
-<div align="center">🦇 Omar Hussein | Mobile Developer
+<div align="center">🦇 Omar Husin | Mobile Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Mobile+Experiences;Creating+Real+Products;Welcome+to+My+Batcave" /><br><img src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" width="450"/></div>---
 
 <div align="center">About Me
 
-I'm Omar Hussein, a Flutter & Mobile Developer from Egypt 🇪🇬 passionate about building scalable and visually polished mobile applications. I enjoy transforming ideas into real products and continuously improving my development skills through real-world projects and problem solving. My current focus revolves around Flutter, clean architecture, performance optimization, and crafting mobile experiences that feel smooth, modern, and impactful.
+I'm Omar Husin, a Flutter & Mobile Developer from Egypt 🇪🇬 passionate about building scalable and visually polished mobile applications. I enjoy transforming ideas into real products and continuously improving my development skills through real-world projects and problem solving. My current focus revolves around Flutter, clean architecture, performance optimization, and crafting mobile experiences that feel smooth, modern, and impactful.
 
 </div>---
 
@@ -19,13 +19,13 @@ I'm Omar Hussein, a Flutter & Mobile Developer from Egypt 🇪🇬 passionate ab
 <div align="center">Featured Projects
 
 <table>
-<tr><td align="center" width="33%"><img src="YOUR_WIKIWIKI_LOGO_URL_HERE" width="90"/>WIKI WIKI
+<tr><td align="center" width="33%"><img src="[YOUR_WIKIWIKI_LOGO_URL_HERE](https://play-lh.googleusercontent.com/wI7kfDqT425HqyQN9wv-xHC6BEiOG4Fr36JRuMhfUcymPGw5az4kp6E6R8i0qetz68j6=w240-h480-rw)" width="90"/>WIKI WIKI
 
 Social & communication platform built for seamless interaction and user engagement.
 
 <a href="https://play.google.com/store/apps/details?id=com.wiki.wiki.android&hl=en">
 <img src="https://img.shields.io/badge/Google_Play-111111?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a></td><td align="center" width="33%"><img src="YOUR_SCARLIVE_LOGO_URL_HERE" width="90"/>SCARLIVE
+</a></td><td align="center" width="33%"><img src="[YOUR_SCARLIVE_LOGO_URL_HERE](https://play-lh.googleusercontent.com/vZGkAhWvrKpv4pzqv5oLYKWULF6k_dbSKWH_iMHaj539x4Sn6w5wo05zFWPwtw6CJ3_KyXsWyMME2lH8CmGpBA=w240-h480-rw)" width="90"/>SCARLIVE
 
 A social experience focused on communication and digital interaction.
 
