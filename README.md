@@ -16,7 +16,7 @@ I'm Omar Husin, a Flutter & Mobile Developer from Egypt passionate about buildin
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=i4oofi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/><br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4oofi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/><br><br>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=i4oofi&layout=compact&theme=tokyonight&hide_border=true"/><br><br>
 
 <img src="https://streak-stats.demolab.com?user=i4oofi&theme=tokyonight&hide_border=true&border_radius=15"/></div>---
 
@@ -50,7 +50,7 @@ Management and administration system designed to streamline workflow and operati
 
 <div align="center">Contribution Activity
 
-<img src="https://github-contributor-stats.vercel.app/api?username=i4oofi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/></div>---
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i4oofi&theme=tokyonight"/></div>---
 
 <div align="center">Connect
 
