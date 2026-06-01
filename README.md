@@ -1,72 +1,53 @@
-<h1 align="center">🦇 Omar Hussein | The Dark Mobile Developer</h1><div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=700&lines=Flutter+Developer+🦇;Building+Clean+%26+Scalable+Apps;Always+Learning+New+Tech;Welcome+to+My+Batcave" /></div>---
+<div align="center">🦇 Omar Hussein | Mobile Developer
 
-<div align="center">
-  <img height="250" src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif"/>
-</div><h3 align="center">
-⚡ Turning ideas into mobile experiences from Egypt 🇪🇬
-</h3>---
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Mobile+Experiences;Creating+Real+Products;Welcome+to+My+Batcave" /><br><img src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" width="450"/></div>---
 
-🦇 About Me
+<div align="center">About Me
 
-Name: Omar Hussein
-Username: i4oofi
-Role: Mobile Developer
-Location: Egypt
-Focus: Flutter & Mobile Apps
-Current Mission: Building impactful apps and improving every day
-Mindset: Code. Learn. Repeat.
+I'm Omar Hussein, a Flutter & Mobile Developer from Egypt 🇪🇬 passionate about building scalable and visually polished mobile applications. I enjoy transforming ideas into real products and continuously improving my development skills through real-world projects and problem solving. My current focus revolves around Flutter, clean architecture, performance optimization, and crafting mobile experiences that feel smooth, modern, and impactful.
 
----
+</div>---
 
-⚔️ Tech Arsenal
+<div align="center">Tech Stack
 
-<div align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,cpp,js,html,css,python,cs,firebase,git,github,vscode&theme=dark" /></div>---
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,js,html,css,python,cs,firebase,git,github,vscode&theme=dark" /></div>---
 
-📊 GitHub Stats
+<div align="center">GitHub Analytics
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=i4oofi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4oofi&layout=compact&theme=tokyonight&hide_border=true"/></div>---
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=i4oofi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4oofi&layout=compact&theme=tokyonight&hide_border=true"/></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=i4oofi&theme=tokyonight&hide_border=true"/></div><br><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=i4oofi&theme=tokyo-night&hide_border=true&area=true"/></div>---
 
-🔥 Commit Streak
+<div align="center">Featured Projects
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=i4oofi&theme=tokyonight&hide_border=true"/></div>---
+<table>
+<tr><td align="center" width="33%"><img src="YOUR_WIKIWIKI_LOGO_URL_HERE" width="90"/>WIKI WIKI
 
-🐍 Contribution Snake
+Social & communication platform built for seamless interaction and user engagement.
 
-<div align="center"><img src="https://raw.githubusercontent.com/i4oofi/i4oofi/output/snake.svg" /></div>---
+<a href="https://play.google.com/store/apps/details?id=com.wiki.wiki.android&hl=en">
+<img src="https://img.shields.io/badge/Google_Play-111111?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a></td><td align="center" width="33%"><img src="YOUR_SCARLIVE_LOGO_URL_HERE" width="90"/>SCARLIVE
 
-🚀 Current Projects
+A social experience focused on communication and digital interaction.
 
-☕ Control System
+<a href="https://play.google.com/store/apps/details?id=com.scarlive.social&hl=en">
+<img src="https://img.shields.io/badge/Google_Play-111111?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a></td><td align="center" width="33%"><img src="https://img.icons8.com/fluency/96/dashboard-layout.png" width="90"/>AUVNET MANAGEMENT SYSTEM
 
-«Smart cafe & PlayStation management system
-Calculates sessions, bills, drinks, and total cost.»
+Management and administration system designed for organized workflow and operational control.
 
-💬 Chat Applications
+<img src="https://img.shields.io/badge/Private_Project-111111?style=for-the-badge&logo=vercel&logoColor=white"/></td></tr>
+</table></div>---
 
-«Real-time messaging apps using Flutter & Firebase.»
+<div align="center">Contribution Activity
 
-📝 Notes App
+<img src="https://raw.githubusercontent.com/i4oofi/i4oofi/output/snake.svg"/></div>---
 
-«Clean note-taking experience using Hive & Flutter.»
+<div align="center">Connect With Me
 
-🌦 Weather App
-
-«Weather tracking with API integration & Bloc.»
-
----
-
-🌌 Developer Philosophy
-
-«"It's not who I am underneath, but what I code that defines me." 🦇»
-
----
-
-🌐 Connect With Me
-
-<div align="center"><a href="https://linkedin.com/in/i4oofi">
+<a href="https://linkedin.com/in/i4oofi">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="https://x.com/i4oofi">
-<img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a><a href="https://instagram.com/i4oofi">
 <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a><a href="mailto:i4oofiii@gmail.com">
@@ -75,6 +56,6 @@ Calculates sessions, bills, drinks, and total cost.»
 <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
 </a></div>---
 
-<div align="center">🦇 Welcome to the Batcave
+<div align="center"><img src="https://komarev.com/ghpvc/?username=i4oofi&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>"It's not who I am underneath, but what I build defines me."
 
-<img src="https://komarev.com/ghpvc/?username=i4oofi&label=Visitors&color=7E3ACE&style=for-the-badge"/></div>
+</div>
