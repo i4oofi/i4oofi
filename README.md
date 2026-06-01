@@ -14,7 +14,7 @@ I'm Omar Husin, a Flutter & Mobile Developer from Egypt passionate about buildin
 
 <div align="center">GitHub Analytics
 
-<br><img height="185" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=i4oofi&layout=compact&theme=tokyonight&hide_border=true"/><br><br><br>
+<br><img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=i4oofi&layout=compact&theme=tokyonight&hide_border=true"/><br><br><br>
 
 <img src="https://streak-stats.demolab.com?user=i4oofi&theme=tokyonight&hide_border=true&border_radius=15"/></div>---
 
@@ -39,9 +39,6 @@ Management and administration system designed to streamline workflow and operati
 
 <br><img src="https://img.shields.io/badge/Private_Project-18181B?style=for-the-badge&logo=vercel&logoColor=white"/></td></tr>
 </table></div>
-
-<br><img src="https://img.shields.io/badge/Private_Project-18181B?style=for-the-badge&logo=vercel&logoColor=white"/></td></tr>
-</table></div>---
 
 <div align="center">Contribution Activity
 
