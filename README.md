@@ -1,22 +1,22 @@
 <div align="center">Omar Husin | Mobile Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Real+Products;Creating+Mobile+Experiences;Welcome+to+My+Batcave" /><br><img src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" width="420"/></div>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Real+Products;Creating+Mobile+Experiences;Welcome+to+My+Batcave" /><br><img src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" width="420"/></div>---
 
 <div align="center">About Me
 
 I'm Omar Husin, a Flutter & Mobile Developer from Egypt🇪🇬 passionate about building scalable and polished mobile applications. I enjoy transforming ideas into real products and continuously improving through hands-on development and challenging projects. My current focus revolves around Flutter, clean architecture, performance optimization, and creating digital experiences that feel smooth, modern, and impactful.
 
-</div>
+</div>---
 
 <div align="center">Tech Stack
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,js,html,css,python,cs,firebase,git,github,vscode&theme=dark"/></div>
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,js,html,css,python,cs,firebase,git,github,vscode&theme=dark"/></div>---
 
 <div align="center">GitHub Analytics
 
 <br><img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=i4oofi&layout=compact&theme=tokyonight&hide_border=true"/><br><br><br>
 
-<img src="https://streak-stats.demolab.com?user=i4oofi&theme=tokyonight&hide_border=true&border_radius=15"/></div>
+<img src="https://streak-stats.demolab.com?user=i4oofi&theme=tokyonight&hide_border=true&border_radius=15"/></div>---
 
 <div align="center">Featured Projects
 
@@ -42,7 +42,7 @@ Management and administration system designed to streamline workflow and operati
 
 <div align="center">Contribution Activity
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i4oofi&theme=tokyonight"/></div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i4oofi&theme=tokyonight"/></div>---
 
 <div align="center">Connect
 
@@ -62,7 +62,7 @@ Management and administration system designed to streamline workflow and operati
 <img src="https://skillicons.dev/icons?i=discord" height="45"/>
 </a><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=i4oofi&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/></div>
+<img src="https://komarev.com/ghpvc/?username=i4oofi&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/></div>---
 
 <div align="center">"It's not who I am underneath, but what I build defines me."
 
